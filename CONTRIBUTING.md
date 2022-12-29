@@ -175,6 +175,9 @@ REF_LABEL=网站首页
 <a href="https://github.com/1834423612" title="kjch">
   <img src="https://avatars.githubusercontent.com/u/49981661?v=4" width="42;" alt="kjch"/>
 </a>
+<a href="https://github.com/pangxiaoli" title="pangxiaoli">
+  <img src="https://avatars.githubusercontent.com/u/54620953?v=4" width="42;" alt="pangxiaoli"/>
+</a>
 <a href="https://github.com/partoneplay" title="partoneplay">
   <img src="https://avatars.githubusercontent.com/u/5189132?v=4" width="42;" alt="partoneplay"/>
 </a>
@@ -190,8 +193,8 @@ REF_LABEL=网站首页
 <a href="https://github.com/13812700839" title="花殇">
   <img src="https://avatars.githubusercontent.com/u/58072506?v=4" width="42;" alt="花殇"/>
 </a>
-<a href="https://github.com/Smartdousha" title="dousha">
-  <img src="https://avatars.githubusercontent.com/u/52566311?v=4" width="42;" alt="dousha"/>
+<a href="https://github.com/dousha0w0" title="dousha0w0">
+  <img src="https://avatars.githubusercontent.com/u/52566311?v=4" width="42;" alt="dousha0w0"/>
 </a>
 <a href="https://github.com/Brid9e" title="Brid9e">
   <img src="https://avatars.githubusercontent.com/u/85558909?v=4" width="42;" alt="Brid9e"/>
@@ -226,6 +229,9 @@ REF_LABEL=网站首页
 <a href="https://github.com/likeshop-github" title="LikeShop技术社区">
   <img src="https://avatars.githubusercontent.com/u/77180968?v=4" width="42;" alt="LikeShop技术社区"/>
 </a>
+<a href="https://github.com/LiuYuan-SHU" title="Liuyuan">
+  <img src="https://avatars.githubusercontent.com/u/96400967?v=4" width="42;" alt="Liuyuan"/>
+</a>
 <a href="https://github.com/mariuszmichalowski" title="Mariusz Michalowski">
   <img src="https://avatars.githubusercontent.com/u/92091891?v=4" width="42;" alt="Mariusz Michalowski"/>
 </a>
@@ -237,6 +243,9 @@ REF_LABEL=网站首页
 </a>
 <a href="https://github.com/QDelta" title="QDelta">
   <img src="https://avatars.githubusercontent.com/u/60222316?v=4" width="42;" alt="QDelta"/>
+</a>
+<a href="https://github.com/qinxiongzhou" title="Ryan Zhou">
+  <img src="https://avatars.githubusercontent.com/u/33239096?v=4" width="42;" alt="Ryan Zhou"/>
 </a>
 <a href="https://github.com/whb1998a" title="WHB">
   <img src="https://avatars.githubusercontent.com/u/44045064?v=4" width="42;" alt="WHB"/>
@@ -255,6 +264,9 @@ REF_LABEL=网站首页
 </a>
 <a href="https://github.com/cool9203" title="cool9203">
   <img src="https://avatars.githubusercontent.com/u/29609607?v=4" width="42;" alt="cool9203"/>
+</a>
+<a href="https://github.com/gi-b716" title="gi-b716">
+  <img src="https://avatars.githubusercontent.com/u/78394473?v=4" width="42;" alt="gi-b716"/>
 </a>
 <a href="https://github.com/godotc" title="godotc">
   <img src="https://avatars.githubusercontent.com/u/79260851?v=4" width="42;" alt="godotc"/>

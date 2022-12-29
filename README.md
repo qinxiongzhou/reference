@@ -161,6 +161,7 @@ Quick Reference
 ## 数据库
 
 [MySQL](./docs/mysql.md)<!--rehype:style=background: rgb(1 117 143);&class=tag&data-lang=SQL-->  
+[MongoDB](./docs/mongodb.md)<!--rehype:style=background: rgb(0 237 100);-->  
 [Oracle](./docs/oracle.md)<!--rehype:style=background: rgb(255 0 0);&class=tag&data-lang=SQL-->  
 [PostgreSQL](./docs/postgres.md)<!--rehype:style=background: rgb(43 109 163);&class=tag&data-lang=SQL-->  
 [Redis](./docs/redis.md)<!--rehype:style=background: rgb(198 47 44);-->  
@@ -177,6 +178,7 @@ Quick Reference
 [Gitlab](./docs/gitlab.md)<!--rehype:style=background: rgb(226 67 41);-->  
 [Google Chrome](./docs/google-chrome.md)<!--rehype:style=background: rgb(29 116 232);-->  
 [IntelliJ IDEA](./docs/intelli-j-idea.md)<!--rehype:style=background: rgb(223 148 0);&class=tag&data-lang=Java-->  
+[PyCharm](./docs/pycharm.md)<!--rehype:style=background: rgb(36 215 137);&class=tag&data-lang=Python-->  
 [Sketch](./docs/sketch.md)<!--rehype:style=background: rgb(223 148 0);&class=tag&data-lang=macOS-->  
 [Sublime Text](./docs/sublime-text.md)<!--rehype:style=background: rgb(223 148 0);-->  
 [VSCode](./docs/vscode.md)<!--rehype:style=background: rgb(91 163 230);-->  
@@ -244,6 +246,9 @@ Quick Reference
 <a href="https://github.com/1834423612" title="kjch">
   <img src="https://avatars.githubusercontent.com/u/49981661?v=4" width="42;" alt="kjch"/>
 </a>
+<a href="https://github.com/pangxiaoli" title="pangxiaoli">
+  <img src="https://avatars.githubusercontent.com/u/54620953?v=4" width="42;" alt="pangxiaoli"/>
+</a>
 <a href="https://github.com/partoneplay" title="partoneplay">
   <img src="https://avatars.githubusercontent.com/u/5189132?v=4" width="42;" alt="partoneplay"/>
 </a>
@@ -259,8 +264,8 @@ Quick Reference
 <a href="https://github.com/13812700839" title="花殇">
   <img src="https://avatars.githubusercontent.com/u/58072506?v=4" width="42;" alt="花殇"/>
 </a>
-<a href="https://github.com/Smartdousha" title="dousha">
-  <img src="https://avatars.githubusercontent.com/u/52566311?v=4" width="42;" alt="dousha"/>
+<a href="https://github.com/dousha0w0" title="dousha0w0">
+  <img src="https://avatars.githubusercontent.com/u/52566311?v=4" width="42;" alt="dousha0w0"/>
 </a>
 <a href="https://github.com/Brid9e" title="Brid9e">
   <img src="https://avatars.githubusercontent.com/u/85558909?v=4" width="42;" alt="Brid9e"/>
@@ -295,6 +300,9 @@ Quick Reference
 <a href="https://github.com/likeshop-github" title="LikeShop技术社区">
   <img src="https://avatars.githubusercontent.com/u/77180968?v=4" width="42;" alt="LikeShop技术社区"/>
 </a>
+<a href="https://github.com/LiuYuan-SHU" title="Liuyuan">
+  <img src="https://avatars.githubusercontent.com/u/96400967?v=4" width="42;" alt="Liuyuan"/>
+</a>
 <a href="https://github.com/mariuszmichalowski" title="Mariusz Michalowski">
   <img src="https://avatars.githubusercontent.com/u/92091891?v=4" width="42;" alt="Mariusz Michalowski"/>
 </a>
@@ -306,6 +314,9 @@ Quick Reference
 </a>
 <a href="https://github.com/QDelta" title="QDelta">
   <img src="https://avatars.githubusercontent.com/u/60222316?v=4" width="42;" alt="QDelta"/>
+</a>
+<a href="https://github.com/qinxiongzhou" title="Ryan Zhou">
+  <img src="https://avatars.githubusercontent.com/u/33239096?v=4" width="42;" alt="Ryan Zhou"/>
 </a>
 <a href="https://github.com/whb1998a" title="WHB">
   <img src="https://avatars.githubusercontent.com/u/44045064?v=4" width="42;" alt="WHB"/>
@@ -324,6 +335,9 @@ Quick Reference
 </a>
 <a href="https://github.com/cool9203" title="cool9203">
   <img src="https://avatars.githubusercontent.com/u/29609607?v=4" width="42;" alt="cool9203"/>
+</a>
+<a href="https://github.com/gi-b716" title="gi-b716">
+  <img src="https://avatars.githubusercontent.com/u/78394473?v=4" width="42;" alt="gi-b716"/>
 </a>
 <a href="https://github.com/godotc" title="godotc">
   <img src="https://avatars.githubusercontent.com/u/79260851?v=4" width="42;" alt="godotc"/>
@@ -420,6 +434,8 @@ Quick Reference
 [eryajf.net](https://ref.eryajf.net/)<!--rehype:target=_blank&class=contributing&data-info=👆每天自动同步-->
 [kjchmc.cn](https://ref.kjchmc.cn/)<!--rehype:target=_blank&class=contributing&data-info=👆实时同步，多线路-->
 [likeadmin.cn](https://www.likeadmin.cn/quickref/)<!--rehype:target=_blank&class=contributing&data-info=👆每天自动同步-->
+[ref.qiubit.cc](http://ref.qiubit.cc)<!--rehype:target=_blank&class=contributing&data-info=👆每天自动同步-->
+[aoh.cc](https://aoh.cc/)<!--rehype:target=_blank-->
 <!--rehype:class=home-card home-links-->
 
 如果你有资源，可以很方便部署 web 版，这非常简单，只需要克隆 [gh-pages](https://github.com/jaywcjlove/reference/tree/gh-pages) 分支代码到你的静态服务就可以了，还可以使用 [docker](https://hub.docker.com/r/wcjiang/reference) 快捷部署 web 版。
