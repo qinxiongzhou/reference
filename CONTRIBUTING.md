@@ -154,6 +154,9 @@ REF_LABEL=网站首页
 <a href="https://github.com/mofelee" title="mofelee">
   <img src="https://avatars.githubusercontent.com/u/5069410?v=4" width="42;" alt="mofelee"/>
 </a>
+<a href="https://github.com/qinxiongzhou" title="Ryan Zhou">
+  <img src="https://avatars.githubusercontent.com/u/33239096?v=4" width="42;" alt="Ryan Zhou"/>
+</a>
 <a href="https://github.com/JeffersonHuang" title="Jefferson">
   <img src="https://avatars.githubusercontent.com/u/47512530?v=4" width="42;" alt="Jefferson"/>
 </a>
@@ -243,9 +246,6 @@ REF_LABEL=网站首页
 </a>
 <a href="https://github.com/QDelta" title="QDelta">
   <img src="https://avatars.githubusercontent.com/u/60222316?v=4" width="42;" alt="QDelta"/>
-</a>
-<a href="https://github.com/qinxiongzhou" title="Ryan Zhou">
-  <img src="https://avatars.githubusercontent.com/u/33239096?v=4" width="42;" alt="Ryan Zhou"/>
 </a>
 <a href="https://github.com/whb1998a" title="WHB">
   <img src="https://avatars.githubusercontent.com/u/44045064?v=4" width="42;" alt="WHB"/>
