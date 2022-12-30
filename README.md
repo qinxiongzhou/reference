@@ -1,4 +1,4 @@
-Quick Referenc
+Quick Reference
 ===
 
 <!--rehype:ignore:start-->
